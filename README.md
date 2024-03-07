@@ -1,4 +1,4 @@
-# zkSync Developers
+# zkSync 
 
 
 ## Table of Contents
